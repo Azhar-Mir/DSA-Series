@@ -23,8 +23,7 @@ public:
 
 /*
 
-Output:
-123
-321
+Input: 123
+Output: 321
 
 */

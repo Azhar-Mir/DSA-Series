@@ -20,3 +20,10 @@ public:
         return ans;
     }
 };
+
+/*
+
+Input: 5
+Output: 2
+
+*/

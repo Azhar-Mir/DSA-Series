@@ -16,3 +16,10 @@ public:
         return false;
     }
 };
+
+/*
+
+Input: 16
+Output: true
+
+*/
